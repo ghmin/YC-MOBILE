@@ -18,6 +18,8 @@ cd YC-MOBILE
 
 
  ionic serve --host=0.0.0.0 --proxy-config proxy.config.js
+ 
+ 
  打包方式是：
  
  ionic build  --engine=browser
